@@ -7,16 +7,16 @@
 # print("Number:",num)
 # print("Factorial:",factorial(num))
 ###################################################################################################
-def fibonacci(num):
+# def fibonacci(num):
     
-       if(num==0 or num ==1 ):
-        return num
-       else:
-        return(fibonacci(num-1)+fibonacci(num-2))
+#        if(num==0 or num ==1 ):
+#         return num
+#        else:
+#         return(fibonacci(num-1)+fibonacci(num-2))
 
-num=7;
-print("Number:",num)
-print(fibonacci(num))
+# num=7;
+# print("Number:",num)
+# print(fibonacci(num))
 ###################################################################################################
 def fibonacci(num):
     if num == 0 or num == 1:
